@@ -1,0 +1,387 @@
+Conversion Warnings Log
+
+
+MSG_ID: 389283632 	MSG_TYPE: X 	MSG_NAME: BAP_Debug_Data
+	SIG_NAME: BAP_Debug_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 389244416 	MSG_TYPE: X 	MSG_NAME: BAP_SoundControl2_ASG_01
+	SIG_NAME: BAP_SoundControl2_ASG_01_Header, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 389244432 	MSG_TYPE: X 	MSG_NAME: BAP_SoundControl2_FSG_01
+	SIG_NAME: BAP_SoundControl2_FSG_01_Header, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469558784 	MSG_TYPE: X 	MSG_NAME: CCP_Soundaktor_CRO_01
+	SIG_NAME: CCP_Soundaktor_CRO_01_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469558785 	MSG_TYPE: X 	MSG_NAME: CCP_Soundaktor_DTO_01
+	SIG_NAME: CCP_Soundaktor_DTO_01_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469594624 	MSG_TYPE: X 	MSG_NAME: DEV_AEM_Resp_00
+	SIG_NAME: DEV_AEM_Resp_00_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469594879 	MSG_TYPE: X 	MSG_NAME: DEV_AEM_Resp_FF
+	SIG_NAME: DEV_AEM_Resp_FF_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469705216 	MSG_TYPE: X 	MSG_NAME: DEV_AGA_Resp_00
+	SIG_NAME: DEV_AGA_Resp_00_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469705471 	MSG_TYPE: X 	MSG_NAME: DEV_AGA_Resp_FF
+	SIG_NAME: DEV_AGA_Resp_FF_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469598720 	MSG_TYPE: X 	MSG_NAME: DEV_FLA_Resp_00
+	SIG_NAME: DEV_FLA_Resp_00_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469598975 	MSG_TYPE: X 	MSG_NAME: DEV_FLA_Resp_FF
+	SIG_NAME: DEV_FLA_Resp_FF_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469580288 	MSG_TYPE: X 	MSG_NAME: DEV_Nightvision_Resp_00
+	SIG_NAME: DEV_Nightvision_Resp_00_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469580543 	MSG_TYPE: X 	MSG_NAME: DEV_Nightvision_Resp_FF
+	SIG_NAME: DEV_Nightvision_Resp_FF_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522954 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_0A
+	SIG_NAME: RDK_RE_Temperatur_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Sensorstatus_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_RSSISum_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Restlebensdauer_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Mode_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Druck_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522952 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_08
+	SIG_NAME: RDK_RE_Temperatur_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Sensorstatus_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_RSSISum_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Restlebensdauer_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Mode_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Druck_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522950 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_06
+	SIG_NAME: RDK_RE_Temperatur_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Sensorstatus_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_RSSISum_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Restlebensdauer_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Mode_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Druck_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522953 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_09
+	SIG_NAME: RDK_RE_RecEvent_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_ZomPosition_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Telegrammtyp_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_RadID_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_aktRadposition_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522951 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_07
+	SIG_NAME: RDK_RE_RecEvent_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_ZomPosition_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Telegrammtyp_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_RadID_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_aktRadposition_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522949 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_05
+	SIG_NAME: RDK_RE_RecEvent_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_ZomPosition_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Telegrammtyp_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_RadID_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_aktRadposition_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522960 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_10
+	SIG_NAME: RDK_Stoersender_Zeit, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Stoersender_FF, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Stoersender, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_AnzahlTio, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_ushBaseLevel, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Antennenoffset, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Parabyte1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Parabyte0, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522959 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_0F
+	SIG_NAME: RDK_Solltemp_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Solldruck_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Solltemp_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Solldruck_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Solltemp_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Solldruck_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Solltemp_0, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Solldruck_0, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522958 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_0E
+	SIG_NAME: RDK_Warnvector_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Warnvector_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Warnvector_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Warnvector_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Warnvector_0, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Warnstatus, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522957 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_0D
+	SIG_NAME: RDK_GutZaehler_SG_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_GutZaehler_SG_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_GutZaehler_SG_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_GutZaehler_SG_0, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522956 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_0C
+	SIG_NAME: RDK_Folgeausfallzaehler_SG_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Folgeausfallzaehler_SG_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Folgeausfallzaehler_SG_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Folgeausfallzaehler_SG_0, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522955 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_0B
+	SIG_NAME: RDK_Zustandskennung, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Fahrzeugzustand, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Betriebszustand, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522948 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_04
+	SIG_NAME: RDK_RE_RSSISum_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Sensorstatus_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Mode_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Restlebensdauer_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Temperatur_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_Druck_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522947 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_03
+	SIG_NAME: RDK_RE_Telegrammtyp_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_RecEvent_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_ZomPosition_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_aktRadposition_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_RE_RadID_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522946 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_02
+	SIG_NAME: RDK_Fehler_Qualizaehler, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Fehlerspezifischer_Para_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Fehlerspezifischer_Para_5, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Fehlerspezifischer_Para_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Fehlerspezifischer_Para_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Fehlerspezifischer_Para_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_interne_System_Fehlernummer, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522945 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_01
+	SIG_NAME: RDK_Interne_System_Fehlernr_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Interne_System_Fehlernr_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Interne_System_Fehlernr_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Interne_System_Fehlernr_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469522944 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_00
+	SIG_NAME: RDK_Parameter_5, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Parameter_4, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Parameter_3, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Parameter_2, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Parameter_1, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_interne_Fehlernummer, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Startkennung, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Endekennung, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Sporadischkennung, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: RDK_Laufende_Fehlernummer, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469523199 	MSG_TYPE: X 	MSG_NAME: DEV_RDK_Resp_FF
+	SIG_NAME: DEV_RDK_Resp_FF_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469715456 	MSG_TYPE: X 	MSG_NAME: DEV_RearView_Resp_00
+	SIG_NAME: DEV_RearView_Resp_00_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469715711 	MSG_TYPE: X 	MSG_NAME: DEV_RearView_Resp_FF
+	SIG_NAME: DEV_RearView_Resp_FF_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469586432 	MSG_TYPE: X 	MSG_NAME: DEV_SCR_Resp_00
+	SIG_NAME: DEV_SCR_Resp_00_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469586687 	MSG_TYPE: X 	MSG_NAME: DEV_SCR_Resp_FF
+	SIG_NAME: DEV_SCR_Resp_FF_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469557760 	MSG_TYPE: X 	MSG_NAME: DEV_Soundaktor_Resp_00
+	SIG_NAME: DEV_Soundaktor_Resp_00_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469558015 	MSG_TYPE: X 	MSG_NAME: DEV_Soundaktor_Resp_FF
+	SIG_NAME: DEV_Soundaktor_Resp_FF_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469717504 	MSG_TYPE: X 	MSG_NAME: DEV_STH_Resp_00
+	SIG_NAME: DEV_STH_Resp_00_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469717759 	MSG_TYPE: X 	MSG_NAME: DEV_STH_Resp_FF
+	SIG_NAME: DEV_STH_Resp_FF_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469521152 	MSG_TYPE: X 	MSG_NAME: DEV_SWA_2_Resp_00
+	SIG_NAME: DEV_SWA_2_Resp_00_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469521407 	MSG_TYPE: X 	MSG_NAME: DEV_SWA_2_Resp_FF
+	SIG_NAME: DEV_SWA_2_Resp_FF_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469660160 	MSG_TYPE: X 	MSG_NAME: DEV_SWA_Resp_00
+	SIG_NAME: DEV_SWA_Resp_00_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 469660415 	MSG_TYPE: X 	MSG_NAME: DEV_SWA_Resp_FF
+	SIG_NAME: DEV_SWA_Resp_FF_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391946 	MSG_TYPE: X 	MSG_NAME: FoD_SWA_2_Req
+	SIG_NAME: FoD_SWA_2_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402523018 	MSG_TYPE: X 	MSG_NAME: FoD_SWA_2_Resp
+	SIG_NAME: FoD_SWA_2_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391886 	MSG_TYPE: X 	MSG_NAME: FoD_SWA_Req
+	SIG_NAME: FoD_SWA_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522958 	MSG_TYPE: X 	MSG_NAME: FoD_SWA_Resp
+	SIG_NAME: FoD_SWA_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1838 	MSG_TYPE: S 	MSG_NAME: ISO_AEM_Req
+	SIG_NAME: ISO_AEM_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1944 	MSG_TYPE: S 	MSG_NAME: ISO_AEM_Resp
+	SIG_NAME: ISO_AEM_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1892 	MSG_TYPE: S 	MSG_NAME: ISO_AGA_Req
+	SIG_NAME: ISO_AGA_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1998 	MSG_TYPE: S 	MSG_NAME: ISO_AGA_Resp
+	SIG_NAME: ISO_AGA_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1840 	MSG_TYPE: S 	MSG_NAME: ISO_FLA_Req
+	SIG_NAME: ISO_FLA_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1946 	MSG_TYPE: S 	MSG_NAME: ISO_FLA_Resp
+	SIG_NAME: ISO_FLA_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1795 	MSG_TYPE: S 	MSG_NAME: ISO_Funktionaler_Req_Abgas
+	SIG_NAME: ISO_Funktionaler_Req_Abgas, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1792 	MSG_TYPE: S 	MSG_NAME: ISO_Funktionaler_Req_All
+	SIG_NAME: ISO_ALL_01_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 2015 	MSG_TYPE: S 	MSG_NAME: ISO_Funktionaler_Req_OBD
+	SIG_NAME: ISO_OBD_Funktionaler_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1831 	MSG_TYPE: S 	MSG_NAME: ISO_NightVision_Req
+	SIG_NAME: ISO_NightVision_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1937 	MSG_TYPE: S 	MSG_NAME: ISO_NightVision_Resp
+	SIG_NAME: ISO_NightVision_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1803 	MSG_TYPE: S 	MSG_NAME: ISO_RDK_Req
+	SIG_NAME: ISO_RDK_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1909 	MSG_TYPE: S 	MSG_NAME: ISO_RDK_Resp
+	SIG_NAME: ISO_RDK_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1897 	MSG_TYPE: S 	MSG_NAME: ISO_Rearview_Req
+	SIG_NAME: ISO_Rearview_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 2003 	MSG_TYPE: S 	MSG_NAME: ISO_Rearview_Resp
+	SIG_NAME: ISO_Rearview_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1834 	MSG_TYPE: S 	MSG_NAME: ISO_SCR_Req
+	SIG_NAME: ISO_SCR_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1940 	MSG_TYPE: S 	MSG_NAME: ISO_SCR_Resp
+	SIG_NAME: ISO_SCR_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1820 	MSG_TYPE: S 	MSG_NAME: ISO_Soundaktor_Req
+	SIG_NAME: ISO_Soundaktor_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1926 	MSG_TYPE: S 	MSG_NAME: ISO_Soundaktor_Resp
+	SIG_NAME: ISO_Soundaktor_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1898 	MSG_TYPE: S 	MSG_NAME: ISO_STH_Req
+	SIG_NAME: ISO_STH_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 2004 	MSG_TYPE: S 	MSG_NAME: ISO_STH_Resp
+	SIG_NAME: ISO_STH_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1870 	MSG_TYPE: S 	MSG_NAME: ISO_SWA_Req
+	SIG_NAME: ISO_SWA_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 1976 	MSG_TYPE: S 	MSG_NAME: ISO_SWA_Resp
+	SIG_NAME: ISO_SWA_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391178 	MSG_TYPE: X 	MSG_NAME: ISOx_SWA_2_Req
+	SIG_NAME: ISO_SWA_2_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522250 	MSG_TYPE: X 	MSG_NAME: ISOx_SWA_2_Resp
+	SIG_NAME: ISO_SWA_2_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391335 	MSG_TYPE: X 	MSG_NAME: KS_Nightvision_Req
+	SIG_NAME: KS_Nightvision_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522407 	MSG_TYPE: X 	MSG_NAME: KS_Nightvision_Resp
+	SIG_NAME: KS_Nightvision_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391434 	MSG_TYPE: X 	MSG_NAME: KS_SWA_2_Req
+	SIG_NAME: KS_SWA_2_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522506 	MSG_TYPE: X 	MSG_NAME: KS_SWA_2_Resp
+	SIG_NAME: KS_SWA_2_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391374 	MSG_TYPE: X 	MSG_NAME: KS_SWA_Req
+	SIG_NAME: KS_SWA_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522446 	MSG_TYPE: X 	MSG_NAME: KS_SWA_Resp
+	SIG_NAME: KS_SWA_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391598 	MSG_TYPE: X 	MSG_NAME: OBDC_AEM_Req
+	SIG_NAME: OBDC_AEM_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522670 	MSG_TYPE: X 	MSG_NAME: OBDC_AEM_Resp
+	SIG_NAME: OBDC_AEM_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391600 	MSG_TYPE: X 	MSG_NAME: OBDC_FLA_Req
+	SIG_NAME: OBDC_FLA_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522672 	MSG_TYPE: X 	MSG_NAME: OBDC_FLA_Resp
+	SIG_NAME: OBDC_FLA_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402457088 	MSG_TYPE: X 	MSG_NAME: OBDC_Funktionaler_Req_All
+	SIG_NAME: OBDC_Funktionaler_Req_All_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391591 	MSG_TYPE: X 	MSG_NAME: OBDC_Nightvision_Req
+	SIG_NAME: OBDC_Nightvision_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522663 	MSG_TYPE: X 	MSG_NAME: OBDC_Nightvision_Resp
+	SIG_NAME: OBDC_Nightvision_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391563 	MSG_TYPE: X 	MSG_NAME: OBDC_RDK_Req
+	SIG_NAME: OBDC_RDK_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522635 	MSG_TYPE: X 	MSG_NAME: OBDC_RDK_Resp
+	SIG_NAME: OBDC_RDK_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391657 	MSG_TYPE: X 	MSG_NAME: OBDC_Rearview_Req
+	SIG_NAME: OBDC_Rearview_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522729 	MSG_TYPE: X 	MSG_NAME: OBDC_Rearview_Resp
+	SIG_NAME: OBDC_Rearview_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391594 	MSG_TYPE: X 	MSG_NAME: OBDC_SCR_Req
+	SIG_NAME: OBDC_SCR_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522666 	MSG_TYPE: X 	MSG_NAME: OBDC_SCR_Resp
+	SIG_NAME: OBDC_SCR_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391652 	MSG_TYPE: X 	MSG_NAME: OBDC_Soundaktor2_Req
+	SIG_NAME: OBDC_Soundaktor2_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522724 	MSG_TYPE: X 	MSG_NAME: OBDC_Soundaktor2_Resp
+	SIG_NAME: OBDC_Soundaktor2_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391580 	MSG_TYPE: X 	MSG_NAME: OBDC_Soundaktor_Req
+	SIG_NAME: OBDC_Soundaktor_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522652 	MSG_TYPE: X 	MSG_NAME: OBDC_Soundaktor_Resp
+	SIG_NAME: OBDC_Soundaktor_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391658 	MSG_TYPE: X 	MSG_NAME: OBDC_STH_Req
+	SIG_NAME: OBDC_STH_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522730 	MSG_TYPE: X 	MSG_NAME: OBDC_STH_Resp
+	SIG_NAME: OBDC_STH_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391690 	MSG_TYPE: X 	MSG_NAME: OBDC_SWA_2_Req
+	SIG_NAME: OBDC_SWA_2_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522762 	MSG_TYPE: X 	MSG_NAME: OBDC_SWA_2_Resp
+	SIG_NAME: OBDC_SWA_2_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402391630 	MSG_TYPE: X 	MSG_NAME: OBDC_SWA_Req
+	SIG_NAME: OBDC_SWA_Req_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 402522702 	MSG_TYPE: X 	MSG_NAME: OBDC_SWA_Resp
+	SIG_NAME: OBDC_SWA_Resp_Data, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+BA_DEF_DEF_REL " "  : Match not Found in Param List
